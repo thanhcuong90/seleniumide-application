@@ -15,5 +15,10 @@ namespace SeleniumIDEApplication
         {
             InitializeComponent();
         }
+
+        private void newTestcaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
